@@ -12,11 +12,11 @@ To analyze movie metadata — such as genres, durations, languages, budgets, and
 
 ## 📂 Project Structure
 
-├── IMDB_Movies.csv → Raw dataset
-├── IMDB_Movie_Analysis.xlsx → Cleaned data used for analysis and excel workbook with formulas, charts, and pivot tables
-├── IMDB_Movie_Analysis.pdf → Final project report
-├── IMDB_Movie_Analysis.pptx → Final project powerpoint presentation
-├── README.md → You're here!
+- IMDB_Movies.csv → Raw dataset
+- IMDB_Movie_Analysis.xlsx → Cleaned data used for analysis and excel workbook with formulas, charts, and pivot tables
+- IMDB_Movie_Analysis.pdf → Final project report
+- IMDB_Movie_Analysis.pptx → Final project powerpoint presentation
+- README.md → You're here!
 
 ---
 
@@ -25,6 +25,7 @@ To analyze movie metadata — such as genres, durations, languages, budgets, and
 - **Microsoft Excel 2025** — Data cleaning, analysis, pivot tables, formulas
 - **Microsoft Word** — Final report writing
 - **Canva / Microsoft Powerpoint** — Project Presentation
+- **Loom** — Video Presentation
 
 ---
 
@@ -50,8 +51,9 @@ To analyze movie metadata — such as genres, durations, languages, budgets, and
 
 ## 📄 Report & Results
 
-- Final report: [IMDB_Movie_Analysis_Report.pdf](IMDB-Movie-Analysis.pdf)
-- Presentation: [IMDB_Presentation_Slides.pdf](IMDB_Movie_Analysis.pptx)
+- Final Report: [IMDB_Movie_Analysis_Report.pdf](https://github.com/HARMFULGRUB/IMDB-Movie-Analysis/blob/main/IMDB_Movie_Analysis.pdf)
+- Presentation: [IMDB_Presentation_Slides.pdf](https://github.com/HARMFULGRUB/IMDB-Movie-Analysis/blob/main/IMDB_Movie_Analysis.pptx)
+- Excel Data (Excel 2019+): [IMDB_Movie_Analysis.xlsx](https://github.com/HARMFULGRUB/IMDB-Movie-Analysis/blob/main/IMDB_Movie_Analysis.xlsx)
 - Loom Video Link: _[Link](https://www.loom.com/share/a35a57a9b70b4ef7aa3de573160bf621?sid=d9515e38-fb14-4e65-9a82-22ae1dafd55c)_
 
 ---
