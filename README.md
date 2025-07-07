@@ -50,8 +50,8 @@ To analyze movie metadata — such as genres, durations, languages, budgets, and
 
 ## 📄 Report & Results
 
-- Final report: [IMDB_Movie_Analysis_Report.pdf](/IMDB-Movie-Analysis.pdf)
-- Presentation: [IMDB_Presentation_Slides.pdf](/IMDB_Movie_Analysis.pptx)
+- Final report: [IMDB_Movie_Analysis_Report.pdf](IMDB-Movie-Analysis.pdf)
+- Presentation: [IMDB_Presentation_Slides.pdf](IMDB_Movie_Analysis.pptx)
 - Loom Video Link: _[Link](https://www.loom.com/share/a35a57a9b70b4ef7aa3de573160bf621?sid=d9515e38-fb14-4e65-9a82-22ae1dafd55c)_
 
 ---
